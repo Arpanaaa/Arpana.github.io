@@ -20,7 +20,11 @@ The dataset measures attitudes towards mental health and frequency of mental hea
 
 **Exploratory Data Analysis**
 
+**Percentage of People who want to Get Treatment for Mental Health Conditions*
+
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/6eeab6d7-d380-4eb9-bd6b-85efe52babd5)
+
+The above graph shows that the percentage of respondents who want to get treatment for mental health conditions is 50% and the percentage of respondents who do not want to get treatment id also 50%. 
 
 
 
