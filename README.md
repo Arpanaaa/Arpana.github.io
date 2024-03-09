@@ -24,17 +24,37 @@ The dataset measures attitudes towards mental health and frequency of mental hea
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/6eeab6d7-d380-4eb9-bd6b-85efe52babd5)
 
-The above graph shows that the percentage of respondents who want to get treatment for mental health conditions is 50% and the percentage of respondents who do not want to get treatment id also 50%. 
+The percentage of people who want to get treatment for mental health conditions is 50% and the percentage of respondents who do not want to get treatment is also 50%. 
 
 ***Employment Type of People and Employee Type of Employees Seeking Treatment***
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/5498cd22-4e79-4a28-b41c-0b0945fc9b30)
 
-The above graph shows the percentage of people who are self employed and who are not. Most of the people who responded to the survey were working for an organization as only 12% of the respondents were self employed. There is a vast difference between the number of people who seek treatment. More than 500 people who worked in organizations seeked mental health treatment rather than people who are self employed. But since more employees filled the survey, it cannot be concluded that self employed people do not seek mental health treatment. 
+The percentage of people who are self employed and who are not. Most of the people who responded to the survey were working for an organization as only 12% of the respondents were self employed. There is a vast difference between the number of people who seek treatment. More than 500 people who worked in organizations seeked mental health treatment rather than people who are self employed. But since more employees filled the survey, it cannot be concluded that self employed people do not seek mental health treatment. 
 
-***Work Interference of Survey Respondents***
+***Work Interference due to Mental Health Conditions***
 
-![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/5679bd50-a998-4297-bede-f7ef3b93092f)
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/880d99ee-8677-4d82-9dbb-4abe830bc8b7)
+
+The first graph above tells us that around 48% of people say that sometimes work interefers with their mental health. In the second graph, the people who chose 'Sometimes' are the people who actually have a mental health condition. People who belong to the 'Often' category also consist of the people have a mental health condition. Another interesting insight that can be seen is that people whose mental health has 'Never' interfered at work, they still want treatment to be done. 
+
+***Family History of Mental Illness***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/9b1af5f5-0fc7-4de2-9bd3-04f247fb0f11)
+
+39% of the people responded that they have a family history of mental illness. The plot shows that those people significantly want to get treatment rather than without a family history. This also clears a perception that if a family suffers from mental illness, the child is also likely to suufer from mental health condition. Rather, this statement proves the fact that people with a family history pay more attention to mental illness due to which children born in a family with mental illness is more likely not to suffer from mental health condition. Family history is a significant risk factor for many mental health disorders.
+
+***Working Type of People***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/e1fe42c4-211f-46cb-ab73-11de5969812e)
+
+Around 70% of the respondents of the survey do not work remotely. We can infer that the biggest factor of mental health disorder can be triggered on the workplace. 
+
+***Working Type of People***
+
+
+
+
 
 
 
