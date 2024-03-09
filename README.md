@@ -20,7 +20,7 @@ The dataset measures attitudes towards mental health and frequency of mental hea
 
 **Exploratory Data Analysis**
 
-**Percentage of People who want to Get Treatment for Mental Health Conditions*
+***Percentage of People who want to Get Treatment for Mental Health Conditions***
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/6eeab6d7-d380-4eb9-bd6b-85efe52babd5)
 
