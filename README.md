@@ -16,7 +16,7 @@ A survey was conducted by Open Sourcing Mental Health (OSMI) which is a non-prof
 The dataset measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. It contains various information regarding the respondents of the survey. The age, gender, country and the state the respondent lives in. The type of business they are involved in, their family history of mental illness, if they have taken treatment or not, if they receive mental health benefits or not, if they easily get medical leaves for mental health condittions or not and many more information regarding the respondent. 
 
 **Research Question**
-What are the factors contributing to the mental health of a person?
+*What are the factors contributing to the mental health of a person?*
 
 
 
