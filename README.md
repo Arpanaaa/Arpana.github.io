@@ -26,6 +26,18 @@ The dataset measures attitudes towards mental health and frequency of mental hea
 
 The above graph shows that the percentage of respondents who want to get treatment for mental health conditions is 50% and the percentage of respondents who do not want to get treatment id also 50%. 
 
+***Employment Type of People and Employee Type of Employees Seeking Treatment***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/5498cd22-4e79-4a28-b41c-0b0945fc9b30)
+
+The above graph shows the percentage of people who are self employed and who are not. Most of the people who responded to the survey were working for an organization as only 12% of the respondents were self employed. There is a vast difference between the number of people who seek treatment. More than 500 people who worked in organizations seeked mental health treatment rather than people who are self employed. But since more employees filled the survey, it cannot be concluded that self employed people do not seek mental health treatment. 
+
+***Work Interference of Survey Respondents***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/5679bd50-a998-4297-bede-f7ef3b93092f)
+
+
+
 
 
 
