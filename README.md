@@ -19,6 +19,7 @@ The dataset measures attitudes towards mental health and frequency of mental hea
 *What are the factors contributing to the mental health of a person?*
 
 **Exploratory Data Analysis**
+
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/6eeab6d7-d380-4eb9-bd6b-85efe52babd5)
 
 
