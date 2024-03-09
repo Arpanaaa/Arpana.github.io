@@ -1,6 +1,5 @@
 # Mental Health at Workplace
-<br>
-**Prepared By: Arpana Shah (207089) & Anjisha Khadka (207048)**
+## Prepared By: Arpana Shah (207089) & Anjisha Khadka (207048)**
 
 ![alternative text](https://cdn.pixabay.com/photo/2022/10/18/11/02/mood-7529905_1280.png)
 
@@ -19,6 +18,12 @@ The dataset measures attitudes towards mental health and frequency of mental hea
 *What are the factors contributing to the mental health of a person?*
 
 **Exploratory Data Analysis**
+
+***Company Category***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/a521f5fb-fbb3-420f-be87-d1a61d48878d)
+
+Although the survey was designed to be conducted in the tech field, 18% of the companies belonged to the non tech field. 
 
 ***Percentage of People who want to Get Treatment for Mental Health Conditions***
 
@@ -45,12 +50,15 @@ The first graph above tells us that around 48% of people say that sometimes work
 39% of the people responded that they have a family history of mental illness. The plot shows that those people significantly want to get treatment rather than without a family history. This also clears a perception that if a family suffers from mental illness, the child is also likely to suufer from mental health condition. Rather, this statement proves the fact that people with a family history pay more attention to mental illness due to which children born in a family with mental illness is more likely not to suffer from mental health condition. Family history is a significant risk factor for many mental health disorders.
 
 ***Working Type of People***
-
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/e1fe42c4-211f-46cb-ab73-11de5969812e)
 
 Around 70% of the respondents of the survey do not work remotely. We can infer that the biggest factor of mental health disorder can be triggered on the workplace. 
 
-***Working Type of People***
+
+
+
+
+
 
 
 
