@@ -9,17 +9,20 @@ There are various factors that contribute to the mental health of a person. As a
 
 Various surveys have been conducted by Open Sourcing Mental Health (OSMI) which is a non-profit organization that is dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities. The data collected from one of its 'Mental Health in Workplace' survey has been analyzed in this data analysis.  
 
-> [!DATASET]
-> The dataset has been retrieved from Kaggle. Around 1260 responses from the survey has been amalgamated to form this dataset. Though most of the survey respondents are from USA, this dataset measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. It contains various information regarding the respondents of the survey. The age, gender, country and the state the respondent lives in. The type of business they are involved in, their family history of mental illness, if they have taken treatment or not, if they have received mental health benefits or not, if they can discuss about mental health with their employer or not, etc. for each respondent. In order to simplify the process of analysis, the data has been cleaned and wrangled. 
+**Dataset**
+<br>
+The dataset has been retrieved from Kaggle. Around 1260 responses from the survey has been amalgamated to form this dataset. Though most of the survey respondents are from USA, this dataset measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. It contains various information regarding the respondents of the survey. The age, gender, country and the state the respondent lives in. The type of business they are involved in, their family history of mental illness, if they have taken treatment or not, if they have received mental health benefits or not, if they can discuss about mental health with their employer or not, etc. for each respondent. In order to simplify the process of analysis, the data has been cleaned and wrangled. 
 
-> [!OBJECTIVE OF THE ANALYSIS]
-> The main objective of this data analysis is to comprehend the attitude towards 'Mental Health' in the workplace and also understand 'Mental Health at Workplace' in general.
+**Objective of the Analysis**
+<br>
+***The main objective of this data analysis is to comprehend the attitude towards 'Mental Health' in the workplace and also understand 'Mental Health at Workplace' in general.***
 
-> [!PROCESS OF ANALYSIS]
-> Exploratory Data Analsyis (EDA) has been done using Python, in order to comprehend the perception of mental health among the survey respondents. Visualization has also been done using various libraries in Python itself. Visualization has been used to address various survey questions that reflect attitudes towards mental health in the workplace. 
+**Process of Analysis**
+<br>
+Exploratory Data Analsyis (EDA) has been done using Python, in order to comprehend the perception of mental health among the survey respondents. Visualization has also been done using various libraries in Python itself. Visualization has been used to address various survey questions that reflect attitudes towards mental health in the workplace. 
 
-> [!EXPLORATORY DATA ANALYSIS]
-> 
+**Exploratory Data Analysis**
+<br>
 ***Have you sought treatment for a mental health condition?***
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/d86b6687-71f7-4016-bc3e-dbdeffeb072c)
@@ -92,16 +95,16 @@ According to the above chart, around 62% of the employees felt comfortable in di
 
 50% of the people from the survey said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey. A concrete conclusion on whether employers take mental health as seriously as physical health cannot be made based on the above graph. 
 
-> [!Findings]
-> * Family history can be considered a risk factor for many mental health disorders.
-> * Mental health problems can be triggered at the workplace.
-> * Mental health conditions can interfere in your work.
-> * Some employers even provide mental health benefits to their employees while some companies do not even provide employee wellness benefits. 
+**Findings**
+<br>
+*Family history can be considered a risk factor for many mental health disorders.
+*Mental health problems can be triggered at the workplace.
+*Mental health conditions can interfere in your work.
+*Some employers even provide mental health benefits to their employees while some companies do not even provide employee wellness benefits. 
 
 As it is said, 'There is no health without mental health', employers should focus on promoting mental health in the workplace. Employees should as well take the first step of talking about their mental health with their employers. Employers and employees should nurture each other and grow! 
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+
 
 
 
