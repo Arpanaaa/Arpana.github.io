@@ -33,19 +33,19 @@ The percentage of people who want to get treatment for mental health conditions 
 
 ***Employment Type of People and Employee Type of Employees Seeking Treatment***
 
-![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/5498cd22-4e79-4a28-b41c-0b0945fc9b30)
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/979a6ec0-0f19-4775-b9ab-78812c47c396)
 
 The percentage of people who are self employed and who are not. Most of the people who responded to the survey were working for an organization as only 12% of the respondents were self employed. There is a vast difference between the number of people who seek treatment. More than 500 people who worked in organizations seeked mental health treatment rather than people who are self employed. But since more employees filled the survey, it cannot be concluded that self employed people do not seek mental health treatment. 
 
 ***Work Interference due to Mental Health Conditions***
 
-![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/880d99ee-8677-4d82-9dbb-4abe830bc8b7)
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/de53221a-0c37-48bf-b8f5-fdb27fd33c1f)
 
 The first graph above tells us that around 48% of people say that sometimes work interefers with their mental health. In the second graph, the people who chose 'Sometimes' are the people who actually have a mental health condition. People who belong to the 'Often' category also consist of the people have a mental health condition. Another interesting insight that can be seen is that people whose mental health has 'Never' interfered at work, they still want treatment to be done. 
 
 ***Family History of Mental Illness***
 
-![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/9b1af5f5-0fc7-4de2-9bd3-04f247fb0f11)
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/c3bdadba-0690-48a4-8b50-40f3c4fdc96d)
 
 39% of the people responded that they have a family history of mental illness. The plot shows that those people significantly want to get treatment rather than without a family history. This also clears a perception that if a family suffers from mental illness, the child is also likely to suufer from mental health condition. Rather, this statement proves the fact that people with a family history pay more attention to mental illness due to which children born in a family with mental illness is more likely not to suffer from mental health condition. Family history is a significant risk factor for many mental health disorders.
 
