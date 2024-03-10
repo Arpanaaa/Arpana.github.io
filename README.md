@@ -97,8 +97,9 @@ According to the above chart, around 62% of the employees felt comfortable in di
 50% of the people from the survey said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey. A concrete conclusion on whether employers take mental health as seriously as physical health cannot be made based on the above graph. 
 
 **Findings**
-- Family history can be considered a risk factor for many mental health disorders.
+
 * Mental health problems can be triggered at the workplace.
+* Family history can be considered a risk factor for many mental health disorders.
 * Mental health conditions can interfere in your work.
 * Some employers even provide mental health benefits to their employees while some companies do not even provide employee wellness benefits. 
 
