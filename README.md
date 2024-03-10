@@ -13,7 +13,7 @@ Various surveys have been conducted by Open Sourcing Mental Health (OSMI) which 
 <br>
 The dataset has been retrieved from Kaggle. Around 1260 responses from the survey has been amalgamated to form this dataset. Though most of the survey respondents are from USA, this dataset measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. It contains various information regarding the respondents of the survey. The age, gender, country and the state the respondent lives in. The type of business they are involved in, their family history of mental illness, if they have taken treatment or not, if they have received mental health benefits or not, if they can discuss about mental health with their employer or not, etc. for each respondent. In order to simplify the process of analysis, the data has been cleaned and wrangled. 
 
-**Objective of the Analysis**
+**Objective of Data Analysis**
 <br>
 ***The main objective of this data analysis is to comprehend the attitude towards 'Mental Health' in the workplace and also understand 'Mental Health at Workplace' in general.***
 
@@ -98,8 +98,11 @@ According to the above chart, around 62% of the employees felt comfortable in di
 **Findings**
 <br>
 *Family history can be considered a risk factor for many mental health disorders.
+<br>
 *Mental health problems can be triggered at the workplace.
+<br>
 *Mental health conditions can interfere in your work.
+<br>
 *Some employers even provide mental health benefits to their employees while some companies do not even provide employee wellness benefits. 
 
 As it is said, 'There is no health without mental health', employers should focus on promoting mental health in the workplace. Employees should as well take the first step of talking about their mental health with their employers. Employers and employees should nurture each other and grow! 
