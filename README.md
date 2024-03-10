@@ -80,6 +80,25 @@ Around 39% of the people responded as 'No' and 38% of the people responded as'Ma
 
 The respondents answers to the same question on physical and mental health fluctuate dramatically. Only 5% of workers think that their physical health has a negative impact on their employer, compared to more than 70% who think physical health does not have any detrimental impact on the employer. It may be inaccurate to draw any inferences about whether people seek mental help based on their physical state, as physical health and mental health are treated differently as a whole.
 
+*** Discussing Mental Health with Coworkers ***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/9b76f135-5890-46db-95b2-6aeee0215115)
+
+Around 62% of the employees felt comfortable in discussing some type of mental problems with their coworkers whereas 20% of the employees believed that discussing mental health with their coworkers was not a good idea for them. 
+
+*** Do Employers take Mental Health as seriously as Physical Health?***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/f7c5f52a-d6f1-45a4-a62a-447ac4814a7c)
+
+50% of the people said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey.
+
+***Observed Negative Consequences for Coworkers***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/063014fa-77d2-4174-84ea-a5fb40a50614)
+
+85% of the people said that they have not observed any negative consequence for coworkers with mental health conditions. This result could be due to IT being an organised sector that follows strict guidelines of employee satisfaction in countries like USA. 
+
+
 
 
 
