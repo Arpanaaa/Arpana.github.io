@@ -57,6 +57,12 @@ Around 70% of the respondents of the survey do not work remotely. We can infer t
 
 ***Mental Health Benefits ***
 
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/33a633f4-5477-4449-8b3b-552641bd519d)
+
+38% of the poeople said that their employer provided them mental health benefits, whereas 32% of them didn't even know whether they were provided this benefit.
+
+
+
 
 
 
