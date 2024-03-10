@@ -97,17 +97,17 @@ According to the above chart, around 62% of the employees felt comfortable in di
 
 **Findings**
 <br>
-* Family history can be considered a risk factor for many mental health disorders.
-* Mental health problems can be triggered at the workplace.
-* Mental health conditions can interfere in your work.
-* Some employers even provide mental health benefits to their employees while some companies do not even provide employee wellness benefits. 
 
 As it is said, 'There is no health without mental health', employers should focus on promoting mental health in the workplace. Employees should as well take the first step of talking about their mental health with their employers. Employers and employees should nurture each other and grow! 
 
 
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> [!Findings]
+> * Family history can be considered a risk factor for many mental health disorders.
+  * Mental health problems can be triggered at the workplace.
+  * Mental health conditions can interfere in your work.
+  * Some employers even provide mental health benefits to their employees while some companies do not even provide employee wellness benefits. 
+
 
 
 
