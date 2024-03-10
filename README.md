@@ -61,6 +61,38 @@ Around 70% of the respondents of the survey do not work remotely. We can infer t
 
 38% of the poeople said that their employer provided them mental health benefits, whereas 32% of them didn't even know whether they were provided this benefit.
 
+*** Mental Health as a part of Employee Wellness Program  ***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/1cea5fb1-7862-4025-bdf8-193e328cdd04)
+
+When respondents were asked if their employer has ever discussed about mental health being a part of employee wellness program. About 19% of the people responded that mental health was becoming a part of the employee wellness program and out of those 60% of employee wanted to get treatment.
+A shocking revealation was made that more than 65% of people responded that there were not any wellness programs provided by their company. 
+
+*** Consequence of Discussing Mental Health with Employer ***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/4035f83c-31e2-4af3-b5e2-afd3cf953e4c)
+
+Around 39% of the people responded as 'No' and 38% of the people responded as'Maybe' for the negative impact of discussing mental health consequences with the employer and about 23% said 'Yes' to it. 23% is a significant number of people who feel that discussing their mental health with the employer might create an impact on their job. This may be because of the stigma, decreased productivity or any other preconcieved notion that people create when talking about mental health. 
+
+*** Consequence of Discussing Physical Health with Employer ***
+
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/7fc0c285-d43a-4b18-b06a-6f61503957fe)
+
+The respondents answers to the same question on physical and mental health fluctuate dramatically. Only 5% of workers think that their physical health has a negative impact on their employer, compared to more than 70% who think physical health does not have any detrimental impact on the employer. It may be inaccurate to draw any inferences about whether people seek mental help based on their physical state, as physical health and mental health are treated differently as a whole.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
