@@ -58,19 +58,19 @@ Around 70% of the respondents of the survey do not work remotely. They work in a
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/f2808626-07d2-4d05-97de-616ff32d3b43)
 
-The first graph above tells us that around 48% of people say that sometimes their mental health interferes with their work. In the second graph, the people who chose 'Sometimes' are the people who actually have a mental health condition. People who belong to the 'Often' category also consist of the people that have a mental health condition. Another interesting insight that can be seen is that people whose mental health has 'Never' interfered at work, they still want treatment to be done. This shows how mental health is important to an individual. 
+The first graph above tells us that around 47% of people say that sometimes their mental health interferes with their work. In the second graph, the people who chose 'Sometimes' are the people who actually have a mental health condition. People who belong to the 'Often' category also consist of the people that have a mental health condition. Another interesting insight that can be seen is that people whose mental health has 'Never' interfered at work, they still want treatment to be done. This shows how mental health is important to an individual. 
 
 ***Has your employer ever discussed mental health as part of an employee wellness program?***
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/4e064cf0-d712-47c1-874d-ecb2232635aa)
 
-When respondents were asked if their employer has ever discussed about mental health being a part of employee wellness program. About 19% of the people responded that mental health was becoming a part of the employee wellness program. A shocking revealation was made that more than 65% of people responded that there were not any wellness programs provided by their company. The lack of wellness programs in an organization could decrease employee productivity and morale, increase absenteeism and also lack retention of employees. 
+When respondents were asked if their employer has ever discussed about mental health being a part of employee wellness program. About 18% of the people responded that mental health was becoming a part of the employee wellness program. A shocking revealation was made that more than 65% of people responded that there were not any wellness programs provided by their company. The lack of wellness programs in an organization could decrease employee productivity and morale, increase absenteeism and also lack retention of employees. 
 
 ***Does your employer provide mental health benefits?***
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/e3b7b906-b018-4aba-93eb-757012437c3c)
 
-38% of the poeople said that their employer provided them mental health benefits, whereas 32% of them did not even know whether they were provided this benefit. The 38% of people who said their employer provided them mental health benefits shows that even employers are aware of mental well-being due to which they even provide mental health benefits to their employees. 
+38% of the poeople said that their employer provided them mental health benefits, whereas 33% of them did not even know whether they were provided this benefit. The 38% of people who said their employer provided them mental health benefits shows that even employers are aware of mental well-being due to which they even provide mental health benefits to their employees. 
 
 ***Do you think that discussing a mental health issue with your employer would have negative consequences?***
 
@@ -88,13 +88,13 @@ The respondents answers to the same question on physical and mental health fluct
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/4f745177-2b98-460c-899d-2ca599d5941b)
 
-According to the above chart, around 62% of the employees felt comfortable in discussing some type of mental problems with their coworkers whereas 20% of the employees believed that discussing mental health with their coworkers was not a good idea for them. People are comfortable in discussing mental health issues with their coworkers but are not with their employers. 
+According to the above chart, around 62% of the employees felt comfortable in discussing some type of mental problems with their coworkers whereas 21% of the employees believed that discussing mental health with their coworkers was not a good idea for them. People are comfortable in discussing mental health issues with their coworkers but are not with their employers. 
 
 ***Do Employers take Mental Health as seriously as Physical Health?***
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/13a17880-044d-4d70-90d3-9e41ecc5b53a)
 
-50% of the people from the survey said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey. A concrete conclusion on whether employers take mental health as seriously as physical health cannot be made based on the above graph. 
+46% of the people from the survey said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey. A concrete conclusion on whether employers take mental health as seriously as physical health cannot be made based on the above graph. 
 
 **Findings**
 
