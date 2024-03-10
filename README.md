@@ -18,7 +18,7 @@ The dataset has been retrieved from Kaggle. Around 1260 responses from the surve
 *The main objective of this data analysis is to comprehend the attitude towards 'Mental Health' in the workplace and also understand 'Mental Health at Workplace' in general.*
 
 **Process of Analysis**
-Exploratory Data Analsyis (EDA) has been done using Python, in order to comprehend the perception of mental health among the survey respondents. Visualization has also been done using various libraries in Python itself. 
+Exploratory Data Analsyis (EDA) has been done using Python, in order to comprehend the perception of mental health among the survey respondents. Visualization has also been done using various libraries in Python itself. Visualization has been used to address various survey questions that reflect attitudes towards mental health in the workplace. 
 
 **Exploratory Data Analysis**
 
@@ -32,7 +32,7 @@ According to the above graph, the percentage of people who want to get treatment
 
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/c3bdadba-0690-48a4-8b50-40f3c4fdc96d)
 
-39% of the people responded that they have a family history of mental illness and 61% of the people did not have a family history of mental illness. People in general have a perception that if a family suffers from mental illness, the child is also likely to suffer from mental health condition. Rather, a family with history of mental illness will pay more attention to mental illness due to which children born in a family with history of mental illness is more likely not to suffer from mental health condition. Thus, family history can be considered a  risk factor for many mental health disorders.
+39% of the people responded that they have a family history of mental illness and 61% of the people did not have a family history of mental illness. People in general have a perception that if a family suffers from mental illness, the child is also likely to suffer from mental health condition. Rather, a family with history of mental illness will pay more attention to mental illness due to which children born in a family with history of mental illness is more likely not to suffer from mental health condition. 
 
 ***Are you self-employed?***
 
@@ -99,6 +99,14 @@ According to the above chart, around 62% of the employees felt comfortable in di
 ![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/f7c5f52a-d6f1-45a4-a62a-447ac4814a7c)
 
 50% of the people from the survey said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey. A concrete conclusion on whether employers take mental health as seriously as physical health cannot be made based on the above graph. 
+
+Findings 
+-Family history can be considered a  risk factor for many mental health disorders.
+* Mental health problems can be triggered at the workplace.
++ Mental health conditions can interfere in your work.
+
+> [!NOTE]
+> 
 
 
 
