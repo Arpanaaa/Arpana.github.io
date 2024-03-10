@@ -100,6 +100,9 @@ According to the above chart, around 62% of the employees felt comfortable in di
 
 As it is said, 'There is no health without mental health', employers should focus on promoting mental health in the workplace. Employees should as well take the first step of talking about their mental health with their employers. Employers and employees should nurture each other and grow! 
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 
 
 
