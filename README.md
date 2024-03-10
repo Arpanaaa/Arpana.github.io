@@ -37,7 +37,7 @@ According to the above graph, the percentage of people who want to get treatment
 
 ***Are you self-employed?***
 
-![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/ffab73a0-e6a9-4c87-9bc0-786441fe5fe0)
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/0eb89587-c2b7-4d95-b3ee-8a49359ae636)
 
 The above graph depicts the percentage of people who are self employed and who are not. Most of the people who responded to the survey were working for an organization as only 12% of the respondents were self employed. There is a also vast difference between the number of people who seek treatment. More than 500 people who worked in organizations seeked mental health treatment rather than people who are self employed, according to the above graph. But since more employees filled the survey, it cannot be concluded that self employed people do not seek mental health treatment. 
 
@@ -95,8 +95,8 @@ According to the above chart, around 62% of the employees felt comfortable in di
 
 50% of the people from the survey said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey. A concrete conclusion on whether employers take mental health as seriously as physical health cannot be made based on the above graph. 
 
-Findings 
-<br>
+> [!Findings]
+> 
 * Family history can be considered a risk factor for many mental health disorders.
 * Mental health problems can be triggered at the workplace.
 * Mental health conditions can interfere in your work.
@@ -105,8 +105,7 @@ Findings
 As it is said, 'There is no health without mental health', employers should focus on promoting mental health in the workplace. Employees should as well take the first step of talking about their mental health with their employers. Employers and employees should nurture each other and grow! 
 
 
-> [!NOTE]
-> 
+
 
 
 
