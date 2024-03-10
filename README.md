@@ -27,7 +27,7 @@ Although the survey was designed to be conducted in the tech field, 18% of the c
 
 ***Percentage of People who want to Get Treatment for Mental Health Conditions***
 
-![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/6eeab6d7-d380-4eb9-bd6b-85efe52babd5)
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/400231f4-42ee-4911-8429-d6229d54ef0f)
 
 The percentage of people who want to get treatment for mental health conditions is 50% and the percentage of respondents who do not want to get treatment is also 50%. 
 
