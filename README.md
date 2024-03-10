@@ -18,6 +18,7 @@ The dataset has been retrieved from Kaggle. Around 1260 responses from the surve
 *The main objective of this data analysis is to comprehend the attitude towards 'Mental Health' in the workplace and also understand 'Mental Health at Workplace' in general.*
 
 **Process of Analysis**
+<br>
 Exploratory Data Analsyis (EDA) has been done using Python, in order to comprehend the perception of mental health among the survey respondents. Visualization has also been done using various libraries in Python itself. Visualization has been used to address various survey questions that reflect attitudes towards mental health in the workplace. 
 
 **Exploratory Data Analysis**
@@ -82,21 +83,15 @@ Around 39% of the people responded as 'No' and 38% of the people responded as'Ma
 
 The respondents answers to the same question on physical and mental health fluctuate dramatically. Only 5% of workers think that their physical health has a negative impact on their employer, compared to more than 70% who think physical health does not have any detrimental impact on the employer. This shows that people believe discussing physical health with the employer does not have any negative consequences but discussing mental health could have negative consequences. 
 
-***Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?***
-
-
-
-85% of the people said that they have not observed any negative consequence for coworkers with mental health conditions. This result could be due to IT being an organised sector that follows strict guidelines of employee satisfaction in countries like USA or it could also be due to the increasing awareness of mental health and mental health conditions. 
-
 ***Would you be willing to discuss a mental health issue with your coworkers?***
 
-
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/4f745177-2b98-460c-899d-2ca599d5941b)
 
 According to the above chart, around 62% of the employees felt comfortable in discussing some type of mental problems with their coworkers whereas 20% of the employees believed that discussing mental health with their coworkers was not a good idea for them. People are comfortable in discussing mental health issues with their coworkers but are not with their employers. 
 
 ***Do Employers take Mental Health as seriously as Physical Health?***
 
-![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/f7c5f52a-d6f1-45a4-a62a-447ac4814a7c)
+![image](https://github.com/Arpanaaa/Arpana.github.io/assets/159395386/13a17880-044d-4d70-90d3-9e41ecc5b53a)
 
 50% of the people from the survey said they do not know if employers take mental health as seriously as physical health.  The number of people who answered 'Yes' as well as 'No' were completely equal in the survey. A concrete conclusion on whether employers take mental health as seriously as physical health cannot be made based on the above graph. 
 
@@ -105,10 +100,11 @@ Findings
 * Family history can be considered a risk factor for many mental health disorders.
 * Mental health problems can be triggered at the workplace.
 * Mental health conditions can interfere in your work.
-* There are no negative consequences for people with mental health conditions at the workplace.
 * Some employers even provide mental health benefits to their employees while some companies do not even provide employee wellness benefits. 
 
 As it is said, 'There is no health without mental health', employers should focus on promoting mental health in the workplace. Employees should as well take the first step of talking about their mental health with their employers. Employers and employees should nurture each other and grow! 
+
+
 > [!NOTE]
 > 
 
