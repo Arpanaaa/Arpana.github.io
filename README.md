@@ -15,13 +15,14 @@ The dataset has been retrieved from Kaggle. Around 1260 responses from the surve
 
 **Objective of Data Analysis**
 <br>
-***The main objective of this data analysis is to comprehend the attitude towards 'Mental Health' in the workplace and also understand 'Mental Health at Workplace' in general.***
+The main objective of this data analysis is to comprehend the attitude towards 'Mental Health' in the workplace and also understand 'Mental Health at Workplace' in general.
 
 **Process of Analysis**
 <br>
 Exploratory Data Analsyis (EDA) has been done using Python, in order to comprehend the perception of mental health among the survey respondents. Visualization has also been done using various libraries in Python itself. Visualization has been used to address various survey questions that reflect attitudes towards mental health in the workplace. 
 
 **Exploratory Data Analysis**
+<br>
 <br>
 ***Have you sought treatment for a mental health condition?***
 
