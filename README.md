@@ -55,6 +55,8 @@ The first graph above tells us that around 48% of people say that sometimes work
 
 Around 70% of the respondents of the survey do not work remotely. We can infer that the biggest factor of mental health disorder can be triggered on the workplace. 
 
+***Mental Health Benefits ***
+
 
 
 
