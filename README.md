@@ -1,5 +1,5 @@
 # Mental Health at Workplace
-## Prepared By: Arpana Shah (207089) & Anjisha Khadka (207048)
+## Prepared By: Arpana Shah (207089)
 
 ![alternative text](https://cdn.pixabay.com/photo/2022/10/18/11/02/mood-7529905_1280.png)
 
